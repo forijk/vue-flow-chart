@@ -1,6 +1,6 @@
 {
   "name": "vue-flow-chart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just provide an array according to the structure to have a configurable flowchart.",
   "main": "./src/index.js",
   "repository": "https://github.com/forijk/vue-flow-chart.git",

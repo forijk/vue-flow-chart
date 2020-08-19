@@ -1,6 +1,6 @@
-# vue-flow-chart
+# vue-flow-chart-better
 
-`vue-flow-chart` is a simple and beautiful vue flow chart component that allows you to build and add custom flow chart to your sites.
+`vue-flow-chart-better` is a simple and beautiful vue flow chart component that allows you to build and add custom flow chart to your sites.
 
 Features: Custom node templates, mini map , add node, copy node, draggable node, beautiful line and so on.
 
@@ -9,18 +9,18 @@ Features: Custom node templates, mini map , add node, copy node, draggable node,
 
 ## Demo
 
-[vue-flow-chart-demo](https://forijk.github.io/about)
+[vue-flow-chart-better-demo](https://forijk.github.io/about)
 
 ## Installation
 
 ```shell
-$ yarn add vue-flow-chart
+$ yarn add vue-flow-chart-better
 ```
 
 ## Example
 
 ```javascript
-import FlowChart from 'vue-flow-chart'
+import FlowChart from 'vue-flow-chart-better'
 Vue.use(FlowChart)
 ```
 

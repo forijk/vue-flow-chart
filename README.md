@@ -5,11 +5,12 @@
 Features: Custom node templates, mini map , add node, copy node, draggable node, beautiful line and so on.
 
 **只需按照结构提供一个数组，即可拥有一个可配置的流程图**
+
 **Just provide an array according to the structure to have a configurable flowchart**
 
 ## Demo
 
-[vue-flow-chart-better-demo](https://forijk.github.io/about)
+[vue-flow-chart-better-demo](https://forijk.github.io)
 
 ## Installation
 
